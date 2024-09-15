@@ -1,7 +1,0 @@
-CLIENT_ID=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-CLIENT_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxx
-AUTHORITY=https://connectionet.b2clogin.com/connectionet.onmicrosoft.com/B2C_!_siso
-CLIENT_ID=your-backend-client-id
-TENANT_NAME=connectionet
-POLICY_NAME=B2C_1_siso
-PORT=5000
